@@ -31,4 +31,4 @@ A real-time service that allows for vendors, such as flower shops or restaurants
 
 #### UML / Application Wiring Diagram
 
-![image](https://user-images.githubusercontent.com/33704616/118051541-d0608080-b346-11eb-8fae-72043a2d2043.png)
+![image](https://user-images.githubusercontent.com/33704616/118372444-42b7a780-b577-11eb-9435-4a12b478fb2d.png)
