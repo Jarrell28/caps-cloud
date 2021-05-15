@@ -8,7 +8,7 @@ A real-time service that allows for vendors, such as flower shops or restaurants
 
 ### Links and Resources
 
-- [Pull Request](https://github.com/Jarrell28/serverless-api/pull/1)
+- [Pull Request](https://github.com/Jarrell28/caps-cloud/pull/1)
 
 ### Setup
 
