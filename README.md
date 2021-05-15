@@ -14,11 +14,11 @@ A real-time service that allows for vendors, such as flower shops or restaurants
 
 1. Requires setup of AWS SNS and AWS SQS 
 
- AWS SNS - Create a standard SNS for the vendors to publish notifications to drivers
+     AWS SNS - Create a standard SNS for the vendors to publish notifications to drivers
 
- AWS SQS - Create a standard SQS for packages to be queued and drivers to pickup
+     AWS SQS - Create a standard SQS for packages to be queued and drivers to pickup
 
- AWS SQS - Create a standard SQS per vendor to receive delivery confirmations from drivers
+     AWS SQS - Create a standard SQS per vendor to receive delivery confirmations from drivers
 
 2. Replace the AWS SQS/SNS arns and urls appropriately in vendor.js and driver.js
 
